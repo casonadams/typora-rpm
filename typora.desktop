@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+TryExec=typora
+Exec=typora
+Icon=/usr/share/Typora-linux-x64/resources/app/asserts/icon/icon_128x128@2x.png
+Terminal=false
+
+Name=Typora
+GenericName=MD Editor
+Comment=Markdown Editor
+StartupWMClass=Typora
+Actions=New;
+
+[Desktop Action New]
+Name=Typora
+Exec=typora
