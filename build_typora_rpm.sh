@@ -3,7 +3,7 @@
 ITERATION="${1:-0}"
 
 RPM_NAME=typora
-VERSION=0.9.9.32.1
+VERSION=0.9.86
 VENDOR=Typora
 
 curl -L https://typora.io/linux/Typora-linux-x64.tar.gz | tar xzvf -
